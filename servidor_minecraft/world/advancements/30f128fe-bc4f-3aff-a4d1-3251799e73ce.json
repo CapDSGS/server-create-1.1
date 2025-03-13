@@ -7191,9 +7191,63 @@
     },
     "done": true
   },
+  "design_decor:recipes/building_blocks/asurine_castel_tile_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-03-13 03:24:42 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_tile_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-03-13 03:24:42 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-03-13 03:24:42 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-03-13 03:24:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-03-13 03:03:40 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-03-13 03:24:42 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_tile_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-03-13 03:24:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_slab_recycling": {
+    "criteria": {
+      "has_cut_asurine_brick_slab": "2025-03-13 03:25:04 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_tiles_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-03-13 03:24:42 +0000"
+    },
+    "done": true
+  },
+  "design_decor:recipes/building_blocks/asurine_castel_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-03-13 03:24:42 +0000"
     },
     "done": true
   },

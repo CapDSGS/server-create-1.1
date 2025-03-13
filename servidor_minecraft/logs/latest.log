@@ -319,3 +319,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [13Mar2025 03:03:40.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico has made the advancement [Enchanter]
 [13Mar2025 03:08:23.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has made the advancement [Sneak 100]
 [13Mar2025 03:13:12.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
+[13Mar2025 03:22:30.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking lost connection: Disconnected
+[13Mar2025 03:22:30.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking left the game
