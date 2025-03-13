@@ -7191,5 +7191,11 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-03-13 03:03:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
