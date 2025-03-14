@@ -17,6 +17,7 @@
       "minecraft:dripstone_caves": "2025-03-08 05:42:21 +0000",
       "minecraft:forest": "2025-03-08 05:31:16 +0000",
       "minecraft:ocean": "2025-03-08 06:02:55 +0000",
+      "minecraft:flower_forest": "2025-03-14 02:26:05 +0000",
       "minecraft:deep_dark": "2025-03-09 21:46:57 +0000",
       "minecraft:savanna": "2025-03-12 05:11:43 +0000",
       "minecraft:plains": "2025-03-08 05:26:25 +0000"
@@ -7363,6 +7364,72 @@
   "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-03-14 01:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-03-14 02:14:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-14 02:23:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "chorus_flower": "2025-03-14 02:10:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-03-14 02:14:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-14 02:23:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-14 02:23:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-14 02:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-03-14 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-14 02:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-14 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-03-14 02:23:22 +0000"
     },
     "done": true
   },
