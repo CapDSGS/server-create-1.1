@@ -6099,6 +6099,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-03-15 18:39:14 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-03-15 18:06:34 +0000"
@@ -6216,6 +6222,12 @@
   "create:recipes/misc/crafting/kinetics/schedule": {
     "criteria": {
       "has_item": "2025-03-15 18:23:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-03-15 18:38:53 +0000"
     },
     "done": true
   },
