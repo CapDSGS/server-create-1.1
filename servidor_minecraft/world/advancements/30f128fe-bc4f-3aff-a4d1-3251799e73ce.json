@@ -7442,9 +7442,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_campfire": {
+  "create:saw_processing": {
     "criteria": {
-      "campfire": "2025-03-15 04:01:28 +0000"
+      "0": "2025-03-15 01:50:54 +0000"
     },
     "done": true
   },
@@ -7457,12 +7457,6 @@
   "railways:recipes/misc/crafting/smokestack_coalburner": {
     "criteria": {
       "has_item": "2025-03-15 03:51:29 +0000"
-    },
-    "done": true
-  },
-  "create:saw_processing": {
-    "criteria": {
-      "0": "2025-03-15 01:50:54 +0000"
     },
     "done": true
   },
@@ -7499,6 +7493,12 @@
   "railways:recipes/misc/crafting/smokestack_diesel": {
     "criteria": {
       "has_item": "2025-03-15 03:51:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-03-15 04:01:28 +0000"
     },
     "done": true
   },
