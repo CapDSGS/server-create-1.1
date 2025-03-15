@@ -6716,6 +6716,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-03-15 17:32:38 +0000"
+    },
+    "done": true
+  },
+  "create:backtank": {
+    "criteria": {
+      "0": "2025-03-15 17:32:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/decorations/andesite_table_cloth_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2025-03-15 17:18:07 +0000"
@@ -6743,6 +6755,12 @@
   "sliceanddice:recipes/misc/slicer": {
     "criteria": {
       "has_tool": "2025-03-15 17:11:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox_from_conversion": {
+    "criteria": {
+      "has_item": "2025-03-15 17:27:23 +0000"
     },
     "done": true
   },

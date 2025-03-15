@@ -5032,3 +5032,20 @@ Missing minecraft:entity_type:
 [15Mar2025 17:11:38.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking joined the game
 [15Mar2025 17:11:38.472] [Server thread/INFO] [Jade/]: Syncing config to danking (3bfa6721-a088-3a7b-8c88-75521f7badc1)
 [15Mar2025 17:23:57.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
+[15Mar2025 17:32:55.157] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/374, l='ServerLevel[world]', x=921.51, y=64.00, z=-383.51] died, message: 'Librarian was slain by Zombie'
+[15Mar2025 17:36:57.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> z
+[15Mar2025 17:36:57.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> z
+[15Mar2025 17:36:58.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> z
+[15Mar2025 17:36:58.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> z
+[15Mar2025 17:36:58.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> z
+[15Mar2025 17:36:58.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> z
+[15Mar2025 17:36:58.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> z
+[15Mar2025 17:36:58.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> z
+[15Mar2025 17:36:59.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> z
+[15Mar2025 17:36:59.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> z
+[15Mar2025 17:36:59.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> z
+[15Mar2025 17:46:11.671] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking lost connection: Timed out
+[15Mar2025 17:46:11.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking left the game
+[15Mar2025 17:48:32.006] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@a70db7d[id=<null>,name=danking,properties={},legacy=false] (/10.147.18.7:62097): Took too long to log in
+[15Mar2025 17:48:32.007] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a70db7d[id=<null>,name=danking,properties={},legacy=false] (/10.147.18.7:62097) lost connection: Disconnected
+[15Mar2025 17:48:32.053] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
