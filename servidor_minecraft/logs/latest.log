@@ -274,3 +274,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [15Mar2025 02:49:10.007] [Server thread/INFO] [Jade/]: Syncing config to danking (3bfa6721-a088-3a7b-8c88-75521f7badc1)
 [15Mar2025 03:10:14.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Set own game mode to Spectator Mode]
 [15Mar2025 03:10:55.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Set own game mode to Survival Mode]
+[15Mar2025 03:21:08.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Set own game mode to Spectator Mode]
+[15Mar2025 03:21:24.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Set own game mode to Survival Mode]
+[15Mar2025 03:26:32.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Set own game mode to Spectator Mode]
+[15Mar2025 03:26:39.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Set own game mode to Survival Mode]
+[15Mar2025 03:28:11.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
+[15Mar2025 03:28:26.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=383, y=48, z=-119} BlockPos{x=383, y=46, z=-120}
+[15Mar2025 03:28:26.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=383, y=48, z=-119} BlockPos{x=383, y=46, z=-120}

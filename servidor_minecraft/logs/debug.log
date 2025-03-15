@@ -9465,3 +9465,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [15Mar2025 03:13:10.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Mar2025 03:18:10.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Mar2025 03:18:10.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 03:21:08.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Set own game mode to Spectator Mode]
+[15Mar2025 03:21:24.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Set own game mode to Survival Mode]
+[15Mar2025 03:23:10.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 03:23:10.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 03:26:32.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Set own game mode to Spectator Mode]
+[15Mar2025 03:26:39.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Set own game mode to Survival Mode]
+[15Mar2025 03:28:10.075] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 03:28:10.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 03:28:11.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
+[15Mar2025 03:28:26.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=383, y=48, z=-119} BlockPos{x=383, y=46, z=-120}
+[15Mar2025 03:28:26.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=383, y=48, z=-119} BlockPos{x=383, y=46, z=-120}
+[15Mar2025 03:33:10.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 03:33:10.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 03:38:10.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 03:38:10.142] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
