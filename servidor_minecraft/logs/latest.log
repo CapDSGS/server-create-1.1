@@ -283,3 +283,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [15Mar2025 03:28:26.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=383, y=48, z=-119} BlockPos{x=383, y=46, z=-120}
 [15Mar2025 03:39:00.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Set own game mode to Spectator Mode]
 [15Mar2025 03:39:13.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Set own game mode to Survival Mode]
+[15Mar2025 03:54:04.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=931, y=64, z=-321} BlockPos{x=930, y=63, z=-321}
+[15Mar2025 04:01:28.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico has made the advancement [Bonfire Lit]
+[15Mar2025 04:14:25.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking has made the advancement [Bonfire Lit]
+[15Mar2025 04:15:34.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
