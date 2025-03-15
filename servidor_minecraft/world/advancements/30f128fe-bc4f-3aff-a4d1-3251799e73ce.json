@@ -7368,6 +7368,31 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "kelp": "2025-03-14 03:02:00 +0000",
+      "chorus_flower": "2025-03-14 02:10:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-03-14 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-14 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-03-14 02:14:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2025-03-14 02:14:56 +0000"
@@ -7380,27 +7405,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "chorus_flower": "2025-03-14 02:10:44 +0000"
-    },
-    "done": false
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-03-14 02:14:43 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-03-14 02:23:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
-    "criteria": {
-      "has_item": "2025-03-14 02:55:54 +0000"
     },
     "done": true
   },
@@ -7416,27 +7423,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
-    "criteria": {
-      "has_spire_armor_trim_smithing_template": "2025-03-14 02:12:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-03-14 02:23:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-03-14 02:12:28 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-03-14 02:23:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/secondary_linear_chassisfrom_conversion": {
+    "criteria": {
+      "has_item": "2025-03-14 02:55:54 +0000"
     },
     "done": true
   },
