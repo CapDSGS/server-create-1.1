@@ -1535,6 +1535,7 @@
     "criteria": {
       "minecraft:blaze": "2025-03-12 01:01:37 +0000",
       "minecraft:skeleton": "2025-03-08 05:48:35 +0000",
+      "minecraft:ghast": "2025-03-15 19:24:57 +0000",
       "minecraft:hoglin": "2025-03-11 01:46:08 +0000",
       "minecraft:spider": "2025-03-08 05:59:20 +0000",
       "minecraft:piglin_brute": "2025-03-11 02:19:15 +0000",
@@ -6278,6 +6279,24 @@
   "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
       "has_golden_carrot": "2025-03-15 19:14:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-03-15 22:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-03-15 22:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-03-15 22:07:49 +0000"
     },
     "done": true
   },
