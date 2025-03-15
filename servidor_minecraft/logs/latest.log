@@ -5055,3 +5055,12 @@ Missing minecraft:entity_type:
 [15Mar2025 18:24:06.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
 [15Mar2025 18:46:14.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking lost connection: Timed out
 [15Mar2025 18:46:14.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking left the game
+[15Mar2025 18:56:07.016] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: danking[/10.147.18.7:60729] logged in with entity id 198276 at (977.9000915663314, 66.0, -318.0633161249897)
+[15Mar2025 18:56:07.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking joined the game
+[15Mar2025 18:56:07.138] [Server thread/INFO] [Jade/]: Syncing config to danking (3bfa6721-a088-3a7b-8c88-75521f7badc1)
+[15Mar2025 19:12:49.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
+[15Mar2025 19:13:30.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
+[15Mar2025 19:13:36.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
+[15Mar2025 19:18:58.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=392, y=62, z=-214} BlockPos{x=392, y=61, z=-213}
+[15Mar2025 19:19:18.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=397, y=61, z=-213} BlockPos{x=397, y=59, z=-213}
+[15Mar2025 19:19:19.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=397, y=61, z=-215} BlockPos{x=398, y=59, z=-215}

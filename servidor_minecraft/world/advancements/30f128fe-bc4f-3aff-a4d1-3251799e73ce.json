@@ -6698,6 +6698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-03-15 19:05:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_timer": {
     "criteria": {
       "has_item": "2025-03-15 18:05:51 +0000"
@@ -6746,6 +6752,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_the_recipe": "2025-03-15 19:05:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-03-15 18:16:10 +0000"
@@ -6776,9 +6788,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_tool_swapper_upgrade": {
+    "criteria": {
+      "has_tool_swapper_upgrade": "2025-03-15 18:58:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/combat/crafting/appliances/netherite_backtank": {
     "criteria": {
       "has_item": "2025-03-15 17:22:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_the_recipe": "2025-03-15 19:05:20 +0000"
     },
     "done": true
   },
@@ -6821,6 +6845,12 @@
   "create:recipes/misc/crafting/appliances/linked_controller": {
     "criteria": {
       "has_item": "2025-03-15 18:20:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-03-15 19:14:36 +0000"
     },
     "done": true
   },
