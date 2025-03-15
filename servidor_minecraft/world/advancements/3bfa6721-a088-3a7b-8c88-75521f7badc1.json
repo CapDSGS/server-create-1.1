@@ -3921,18 +3921,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/vertical_gearboxfrom_conversion": {
-    "criteria": {
-      "has_item": "2025-03-08 22:49:25 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
-    "criteria": {
-      "has_item": "2025-03-08 22:49:25 +0000"
-    },
-    "done": true
-  },
   "create:shifting_gears": {
     "criteria": {
       "0": "2025-03-08 22:51:11 +0000"
@@ -4779,12 +4767,6 @@
     },
     "done": true
   },
-  "design_decor:recipes/building_blocks/metal_sheet_wall_from_ingots_iron_stonecutting": {
-    "criteria": {
-      "has_ingots_iron": "2025-03-12 00:44:58 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-03-12 00:44:58 +0000"
@@ -4794,12 +4776,6 @@
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2025-03-12 00:44:58 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/metal_support_from_ingots_iron_stonecutting": {
-    "criteria": {
-      "has_ingots_iron": "2025-03-12 00:44:58 +0000"
     },
     "done": true
   },
@@ -4815,39 +4791,9 @@
     },
     "done": true
   },
-  "design_decor:recipes/building_blocks/metal_plate_stairs_from_ingots_iron_stonecutting": {
-    "criteria": {
-      "has_ingots_iron": "2025-03-12 00:44:58 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-03-12 00:44:58 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/metal_sheet_from_ingots_iron_stonecutting": {
-    "criteria": {
-      "has_ingots_iron": "2025-03-12 00:44:58 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/metal_sheet_stairs_from_ingots_iron_stonecutting": {
-    "criteria": {
-      "has_ingots_iron": "2025-03-12 00:44:58 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/metal_plate_slab_from_ingots_iron_stonecutting": {
-    "criteria": {
-      "has_ingots_iron": "2025-03-12 00:44:58 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/metal_sheet_slab_from_ingots_iron_stonecutting": {
-    "criteria": {
-      "has_ingots_iron": "2025-03-12 00:44:58 +0000"
     },
     "done": true
   },
@@ -4860,30 +4806,6 @@
   "farmersdelight:recipes/food/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2025-03-12 00:44:58 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/metal_plate_wall_from_ingots_iron_stonecutting": {
-    "criteria": {
-      "has_ingots_iron": "2025-03-12 00:44:58 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/metal_plate_from_ingots_iron_stonecutting": {
-    "criteria": {
-      "has_ingots_iron": "2025-03-12 00:44:58 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/diagonal_metal_support_from_ingots_iron_stonecutting": {
-    "criteria": {
-      "has_ingots_iron": "2025-03-12 00:44:58 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/wood_support_from_planks_stonecutting": {
-    "criteria": {
-      "has_planks": "2025-03-12 00:46:46 +0000"
     },
     "done": true
   },
@@ -5265,12 +5187,6 @@
     },
     "done": true
   },
-  "copycats:recipes/crafting/copycat_iron_door": {
-    "criteria": {
-      "has_item": "2025-03-12 01:18:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-03-12 01:21:09 +0000"
@@ -5322,54 +5238,6 @@
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2025-03-12 01:39:02 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/andesite_castel_brick_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-03-12 01:51:02 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/andesite_castel_tile_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-03-12 01:51:02 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/andesite_castel_tile_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-03-12 01:51:02 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/andesite_castel_brick_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-03-12 01:51:02 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/andesite_castel_brick_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-03-12 01:51:02 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/andesite_castel_bricks_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-03-12 01:51:02 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/andesite_castel_tiles_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-03-12 01:51:02 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/andesite_castel_tile_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2025-03-12 01:51:02 +0000"
     },
     "done": true
   },
@@ -5433,19 +5301,7 @@
     },
     "done": true
   },
-  "design_decor:recipes/building_blocks/dripstone_castel_tile_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-12 04:15:44 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-12 04:15:44 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/dripstone_castel_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-03-12 04:15:44 +0000"
     },
@@ -5475,18 +5331,6 @@
     },
     "done": true
   },
-  "design_decor:recipes/building_blocks/dripstone_castel_brick_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-12 04:15:44 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/dripstone_castel_tiles_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-12 04:15:44 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-03-12 04:15:44 +0000"
@@ -5494,18 +5338,6 @@
     "done": true
   },
   "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-12 04:15:44 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/dripstone_castel_bricks_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-12 04:15:44 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/dripstone_castel_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-03-12 04:15:44 +0000"
     },
@@ -5523,12 +5355,6 @@
     },
     "done": true
   },
-  "design_decor:recipes/building_blocks/dripstone_castel_tile_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-12 04:15:44 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-03-12 04:15:44 +0000"
@@ -5536,12 +5362,6 @@
     "done": true
   },
   "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-03-12 04:15:44 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/dripstone_castel_tile_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-03-12 04:15:44 +0000"
     },
@@ -5619,12 +5439,6 @@
     },
     "done": true
   },
-  "railways:recipes/transportation/benchcart": {
-    "criteria": {
-      "hasitem": "2025-03-12 04:27:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2025-03-12 04:27:58 +0000"
@@ -5655,12 +5469,6 @@
     },
     "done": true
   },
-  "railways:recipes/transportation/jukeboxcart": {
-    "criteria": {
-      "hasitem": "2025-03-12 04:27:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-03-12 04:29:06 +0000"
@@ -5676,54 +5484,6 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-03-12 04:29:06 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/granite_castel_tile_wall_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-03-12 04:33:32 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/granite_castel_brick_wall_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-03-12 04:33:32 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/granite_castel_tiles_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-03-12 04:33:32 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/granite_castel_bricks_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-03-12 04:33:32 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/granite_castel_tile_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-03-12 04:33:32 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/granite_castel_brick_stairs_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-03-12 04:33:32 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/granite_castel_tile_stairs_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-03-12 04:33:32 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/granite_castel_brick_slab_from_stone_types_granite_stonecutting": {
-    "criteria": {
-      "has_stone_types_granite": "2025-03-12 04:33:32 +0000"
     },
     "done": true
   },
@@ -5967,102 +5727,6 @@
     },
     "done": true
   },
-  "design_decor:recipes/building_blocks/diorite_castel_brick_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-03-13 01:20:36 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/diorite_castel_tile_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-03-13 01:20:36 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/diorite_castel_tile_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-03-13 01:20:36 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/diorite_castel_brick_wall_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-03-13 01:20:36 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/diorite_castel_bricks_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-03-13 01:20:36 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/diorite_castel_brick_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-03-13 01:20:36 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/diorite_castel_tile_wall_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-03-13 01:20:36 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/diorite_castel_tiles_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-03-13 01:20:36 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/tuff_castel_bricks_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-03-13 01:25:42 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/tuff_castel_tile_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-03-13 01:25:42 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/tuff_castel_tiles_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-03-13 01:25:42 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/tuff_castel_brick_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-03-13 01:25:42 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/tuff_castel_tile_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-03-13 01:25:42 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/tuff_castel_brick_wall_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-03-13 01:25:42 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/tuff_castel_tile_stairs_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-03-13 01:25:42 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/tuff_castel_brick_slab_from_stone_types_tuff_stonecutting": {
-    "criteria": {
-      "has_stone_types_tuff": "2025-03-13 01:25:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-03-13 01:30:23 +0000"
@@ -6132,102 +5796,6 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-03-13 03:08:23 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/calcite_castel_brick_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-03-14 01:36:45 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/calcite_castel_bricks_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-03-14 01:36:45 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/calcite_castel_brick_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-03-14 01:36:45 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/calcite_castel_tile_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-03-14 01:36:45 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/calcite_castel_brick_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-03-14 01:36:45 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/calcite_castel_tile_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-03-14 01:36:45 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/calcite_castel_tiles_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-03-14 01:36:45 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/calcite_castel_tile_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-03-14 01:36:45 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/asurine_castel_tile_stairs_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-03-14 01:37:01 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/asurine_castel_tile_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-03-14 01:37:01 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/asurine_castel_brick_stairs_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-03-14 01:37:01 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/asurine_castel_bricks_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-03-14 01:37:01 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/asurine_castel_brick_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-03-14 01:37:01 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/asurine_castel_tile_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-03-14 01:37:01 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/asurine_castel_tiles_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-03-14 01:37:01 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/asurine_castel_brick_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-03-14 01:37:01 +0000"
     },
     "done": true
   },
@@ -6345,19 +5913,7 @@
     },
     "done": true
   },
-  "design_decor:recipes/building_blocks/deepslate_castel_bricks_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-03-14 02:42:43 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-03-14 02:42:43 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/deepslate_castel_brick_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-14 02:42:43 +0000"
     },
@@ -6381,12 +5937,6 @@
     },
     "done": true
   },
-  "design_decor:recipes/building_blocks/deepslate_castel_tiles_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-03-14 02:42:43 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-14 02:42:43 +0000"
@@ -6405,12 +5955,6 @@
     },
     "done": true
   },
-  "design_decor:recipes/building_blocks/deepslate_castel_brick_wall_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-03-14 02:42:43 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-14 02:42:43 +0000"
@@ -6418,12 +5962,6 @@
     "done": true
   },
   "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-03-14 02:42:43 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/deepslate_castel_tile_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-14 02:42:43 +0000"
     },
@@ -6453,12 +5991,6 @@
     },
     "done": true
   },
-  "design_decor:recipes/building_blocks/deepslate_castel_tile_slab_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-03-14 02:42:43 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-14 02:42:43 +0000"
@@ -6477,19 +6009,7 @@
     },
     "done": true
   },
-  "design_decor:recipes/building_blocks/deepslate_castel_brick_stairs_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-03-14 02:42:43 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-03-14 02:42:43 +0000"
-    },
-    "done": true
-  },
-  "design_decor:recipes/building_blocks/deepslate_castel_tile_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-03-14 02:42:43 +0000"
     },
@@ -6501,39 +6021,9 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_campfire": {
-    "criteria": {
-      "campfire": "2025-03-15 04:14:25 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_woodburner": {
-    "criteria": {
-      "has_item": "2025-03-15 04:14:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-03-15 04:11:32 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_coalburner": {
-    "criteria": {
-      "has_item": "2025-03-15 04:14:19 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_oilburner": {
-    "criteria": {
-      "has_item": "2025-03-15 04:14:19 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_long": {
-    "criteria": {
-      "has_item": "2025-03-15 04:14:19 +0000"
     },
     "done": true
   },
@@ -6543,27 +6033,21 @@
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/smokestack_streamlined": {
-    "criteria": {
-      "has_item": "2025-03-15 04:14:19 +0000"
-    },
-    "done": true
-  },
-  "railways:recipes/misc/crafting/smokestack_caboosestyle": {
-    "criteria": {
-      "has_item": "2025-03-15 04:14:19 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/decorations/stove": {
     "criteria": {
       "has_campfire": "2025-03-15 04:14:19 +0000"
     },
     "done": true
   },
-  "railways:recipes/misc/crafting/smokestack_diesel": {
+  "farmersdelight:main/place_campfire": {
     "criteria": {
-      "has_item": "2025-03-15 04:14:19 +0000"
+      "campfire": "2025-03-15 04:14:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_timer": {
+    "criteria": {
+      "has_item": "2025-03-15 17:11:38 +0000"
     },
     "done": true
   },
