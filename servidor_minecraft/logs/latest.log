@@ -269,3 +269,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'design_decor:aluminum_boiler'
 [15Mar2025 02:44:05.432] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking lost connection: Disconnected
 [15Mar2025 02:44:05.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking left the game
 [15Mar2025 02:44:05.525] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15Mar2025 02:49:09.940] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: danking[/10.147.18.7:64709] logged in with entity id 125624 at (391.5039941675386, 88.0, -154.67351809160454)
+[15Mar2025 02:49:09.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking joined the game
+[15Mar2025 02:49:10.007] [Server thread/INFO] [Jade/]: Syncing config to danking (3bfa6721-a088-3a7b-8c88-75521f7badc1)
+[15Mar2025 03:10:14.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Set own game mode to Spectator Mode]
+[15Mar2025 03:10:55.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Set own game mode to Survival Mode]
