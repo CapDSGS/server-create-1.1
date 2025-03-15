@@ -7502,5 +7502,17 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/brass_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-03-15 13:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-03-15 13:47:48 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
