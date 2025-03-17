@@ -249,3 +249,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23165!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[17Mar2025 00:30:51.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
+[17Mar2025 00:31:02.962] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IngCuantico lost connection: Disconnected
+[17Mar2025 00:31:02.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico left the game
+[17Mar2025 00:35:14.091] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@677587f3[id=<null>,name=IngCuantico,properties={},legacy=false] (/10.147.18.246:52344) lost connection: Disconnected
+[17Mar2025 00:35:46.468] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@f02687b[id=<null>,name=IngCuantico,properties={},legacy=false] (/10.147.18.246:52376) lost connection: Disconnected
+[17Mar2025 00:36:02.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IngCuantico[/10.147.18.246:52412] logged in with entity id 34206 at (1014.2705856158635, 73.0626001, -107.26919453308433)
+[17Mar2025 00:36:02.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico joined the game
+[17Mar2025 00:36:02.288] [Server thread/INFO] [Jade/]: Syncing config to IngCuantico (30f128fe-bc4f-3aff-a4d1-3251799e73ce)
+[17Mar2025 00:39:17.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
+[17Mar2025 00:41:27.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking moved wrongly!
+[17Mar2025 00:42:48.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1035, y=66, z=-222} BlockPos{x=996, y=73, z=-161}
+[17Mar2025 00:42:56.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
