@@ -179,3 +179,19 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [17Mar2025 02:51:05.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: danking[/10.147.18.7:59738] logged in with entity id 57665 at (1058.4579311656748, 79.0, -138.08903295730025)
 [17Mar2025 02:51:05.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking joined the game
 [17Mar2025 02:51:05.713] [Server thread/INFO] [Jade/]: Syncing config to danking (3bfa6721-a088-3a7b-8c88-75521f7badc1)
+[17Mar2025 02:52:19.602] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking lost connection: Disconnected
+[17Mar2025 02:52:19.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking left the game
+[17Mar2025 02:52:19.792] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Mar2025 02:53:24.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: danking[/10.147.18.7:60477] logged in with entity id 62510 at (1057.3747722605642, 79.0, -133.46310449354402)
+[17Mar2025 02:53:24.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking joined the game
+[17Mar2025 02:53:24.255] [Server thread/INFO] [Jade/]: Syncing config to danking (3bfa6721-a088-3a7b-8c88-75521f7badc1)
+[17Mar2025 02:54:00.880] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking moved too quickly! -8.282535963472355,4.315410651982887,-4.627886089490232
+[17Mar2025 02:54:12.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking moved too quickly! -7.794385199371391,-1.7122738623421014,-6.240417067474368
+[17Mar2025 02:54:50.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking moved too quickly! 7.654945655581855,-6.2024187547394405,-5.1968972590320845
+[17Mar2025 02:55:24.487] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking lost connection: Timed out
+[17Mar2025 02:55:24.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking left the game
+[17Mar2025 02:57:03.614] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: danking[/10.147.18.7:60500] logged in with entity id 70092 at (982.0096394805779, 71.04871414027471, -338.28611005067694)
+[17Mar2025 02:57:03.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking joined the game
+[17Mar2025 02:57:03.737] [Server thread/INFO] [Jade/]: Syncing config to danking (3bfa6721-a088-3a7b-8c88-75521f7badc1)
+[17Mar2025 03:04:01.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking moved too quickly! 9.598416736469517,5.074057426129102,1.9245000662423877
+[17Mar2025 03:04:37.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
