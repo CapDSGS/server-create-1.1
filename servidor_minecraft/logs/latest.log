@@ -263,3 +263,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [17Mar2025 00:42:56.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
 [17Mar2025 00:46:27.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IngCuantico lost connection: Disconnected
 [17Mar2025 00:46:27.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico left the game
+[17Mar2025 00:57:48.846] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking lost connection: Disconnected
+[17Mar2025 00:57:48.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking left the game
+[17Mar2025 00:59:00.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Mar2025 00:59:00.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Mar2025 00:59:00.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Mar2025 00:59:00.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
