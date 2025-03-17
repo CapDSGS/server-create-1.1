@@ -198,3 +198,15 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [17Mar2025 03:11:42.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IngCuantico moved wrongly!
 [17Mar2025 03:15:53.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
 [17Mar2025 03:21:50.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking moved too quickly! -0.5982224992346801,-0.041936867348994156,-10.475720363571838
+[17Mar2025 03:22:22.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
+[17Mar2025 03:22:27.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking moved too quickly! -4.78677648321127,6.046471300328733,-6.874493243300691
+[17Mar2025 03:26:37.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking moved too quickly! 1.2732576235575834,2.0849901283448986,-9.746073333559394
+[17Mar2025 03:27:48.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking moved too quickly! -7.365470946009509,-0.1758625860285008,-7.935969371151259
+[17Mar2025 03:27:51.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking moved too quickly! -9.895476172645544,-1.6146589408488978,-3.630427372374072
+[17Mar2025 03:28:05.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
+[17Mar2025 03:28:19.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking moved too quickly! 7.875528525670802,1.726652064164341,7.2604831652489
+[17Mar2025 03:28:21.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking moved too quickly! 7.940504557698773,0.4279520303449402,6.719539564472996
+[17Mar2025 03:30:04.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking moved too quickly! 0.7959779014475998,-9.384141440750284,4.310472646140141
+[17Mar2025 03:30:43.849] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IngCuantico lost connection: Disconnected
+[17Mar2025 03:30:43.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico left the game
+[17Mar2025 03:31:09.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking moved too quickly! 6.699105326566723,-0.8333812107766363,7.468308066950641
