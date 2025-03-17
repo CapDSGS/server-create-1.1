@@ -175,3 +175,4 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [17Mar2025 02:23:06.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6497ms or 129 ticks behind
 [17Mar2025 02:23:29.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7957ms or 159 ticks behind
 [17Mar2025 02:24:32.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> asd
+[17Mar2025 02:31:28.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1061, y=73, z=-389} BlockPos{x=1061, y=72, z=-388}
