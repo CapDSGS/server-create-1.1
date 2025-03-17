@@ -176,3 +176,6 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [17Mar2025 02:23:29.133] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7957ms or 159 ticks behind
 [17Mar2025 02:24:32.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IngCuantico> asd
 [17Mar2025 02:31:28.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1061, y=73, z=-389} BlockPos{x=1061, y=72, z=-388}
+[17Mar2025 02:51:05.638] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: danking[/10.147.18.7:59738] logged in with entity id 57665 at (1058.4579311656748, 79.0, -138.08903295730025)
+[17Mar2025 02:51:05.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: danking joined the game
+[17Mar2025 02:51:05.713] [Server thread/INFO] [Jade/]: Syncing config to danking (3bfa6721-a088-3a7b-8c88-75521f7badc1)
