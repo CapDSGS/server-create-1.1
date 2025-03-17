@@ -261,3 +261,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [17Mar2025 00:41:27.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking moved wrongly!
 [17Mar2025 00:42:48.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1035, y=66, z=-222} BlockPos{x=996, y=73, z=-161}
 [17Mar2025 00:42:56.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [danking: Teleported danking to IngCuantico]
+[17Mar2025 00:46:27.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IngCuantico lost connection: Disconnected
+[17Mar2025 00:46:27.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IngCuantico left the game

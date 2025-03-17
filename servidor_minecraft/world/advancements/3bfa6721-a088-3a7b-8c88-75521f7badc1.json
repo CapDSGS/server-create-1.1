@@ -6870,5 +6870,17 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-03-17 00:51:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-03-17 00:48:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
