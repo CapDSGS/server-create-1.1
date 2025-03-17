@@ -195,3 +195,6 @@ Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
 [17Mar2025 02:57:03.737] [Server thread/INFO] [Jade/]: Syncing config to danking (3bfa6721-a088-3a7b-8c88-75521f7badc1)
 [17Mar2025 03:04:01.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking moved too quickly! 9.598416736469517,5.074057426129102,1.9245000662423877
 [17Mar2025 03:04:37.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
+[17Mar2025 03:11:42.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IngCuantico moved wrongly!
+[17Mar2025 03:15:53.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
+[17Mar2025 03:21:50.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking moved too quickly! -0.5982224992346801,-0.041936867348994156,-10.475720363571838

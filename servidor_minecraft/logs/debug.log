@@ -6601,3 +6601,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Mar2025 03:04:37.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
 [17Mar2025 03:07:48.604] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [17Mar2025 03:07:48.611] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Mar2025 03:11:42.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IngCuantico moved wrongly!
+[17Mar2025 03:12:48.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Mar2025 03:12:48.598] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Mar2025 03:15:53.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IngCuantico: Teleported IngCuantico to danking]
+[17Mar2025 03:17:48.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Mar2025 03:17:48.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Mar2025 03:21:50.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: danking moved too quickly! -0.5982224992346801,-0.041936867348994156,-10.475720363571838
